@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/bin/Debug/net6.0/FinalProjectCode
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/bin/Debug/net6.0/FinalProjectCode.deps.json
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/bin/Debug/net6.0/FinalProjectCode.runtimeconfig.json
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/bin/Debug/net6.0/FinalProjectCode.dll
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/bin/Debug/net6.0/FinalProjectCode.pdb
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.AssemblyInfo.cs
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.dll
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/refint/FinalProjectCode.dll
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.pdb
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/FinalProjectCode.genruntimeconfig.cache
+/Users/anastasia/Desktop/FinalProject/Final_Project/FinalProjectCode/obj/Debug/net6.0/ref/FinalProjectCode.dll
